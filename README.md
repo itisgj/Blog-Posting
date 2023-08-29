@@ -8,7 +8,7 @@ The frontend of the application is built with React. To get started with the fro
 
 1. Navigate to the `client` directory using your terminal.
 2. Run `npm install` to install all the required dependencies.
-3. After the installation is complete, `run npm start` to start the development server.
+3. After the installation is complete, run `npm start` to start the development server.
 4. Open your browser and go to `http://localhost:3000` to access the application.
 
 **Backend**
